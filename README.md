@@ -1,114 +1,92 @@
-<!-- ======================= BANNER ======================= -->
-
-
 <div align="center">
 
-<img 
-  src="./banner.png" 
-  alt="Sayem Hossain - Frontend Developer"
-  width="100%"
-/>
-</div>
+# 👋 Hi, I'm Sayem Hossain
 
-
-
-<br>
-
-<!-- ======================= INTRO ======================= -->
-
-<div align="center">
-
-# Sayem Hossain
-
-### Frontend Developer • UI Enthusiast • Creative Thinker
+### 💻 Frontend Developer | UI Enthusiast | Creative Thinker
 
 <p>
-  Building clean, responsive and user-focused web experiences.
+  <a href="https://github.com/sayem414hossain">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-<!-- ======================= ABOUT ME ======================= -->
+## 🖼️ Banner
 
-## About Me
+<div align="center">
 
-I'm **Sayem Hossain**, a passionate **Frontend Developer** focused on building modern, responsive, and interactive web experiences.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=220&section=header&text=Sayem%20Hossain&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55" width="100%" />
 
-I enjoy transforming ideas and designs into functional interfaces with clean code, thoughtful UI, and a strong focus on user experience.
-
-- Currently learning **React.js & TypeScript**
-- Passionate about **Frontend Development**
-- Interested in **UI/UX and modern web design**
-- Enjoy building **real-world projects**
-- Continuously improving my **JavaScript and problem-solving skills**
-- Exploring modern frontend tools and technologies
-- Working toward becoming a **professional Full-Stack Developer**
+</div>
 
 ---
 
-<!-- ======================= TECHNOLOGY STACK ======================= -->
+## 👨‍💻 About Me
 
-# Technology Stack
+I'm **Sayem Hossain**, a passionate **Frontend Developer** who enjoys turning ideas and designs into clean, responsive, and interactive web experiences.
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,bootstrap" />
-</p>
-
-`HTML` • `CSS` • `JavaScript` • `React.js` • `TypeScript`  
-`Tailwind CSS` • `Bootstrap`
+* 🌱 Currently learning **React.js & TypeScript**
+* 💻 Passionate about **Frontend Development**
+* 🎨 Interested in **UI/UX and modern web design**
+* 🚀 Love building projects and learning new technologies
+* 📚 Continuously improving my coding and problem-solving skills
+* 🎯 Goal: Become a professional Full-Stack Developer
 
 ---
 
-### UI Libraries
+# 🛠️ Technology Stack
+
+## 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=materialui" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,typescript" />
 </p>
+
+---
+
+## 🧩 UI Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=materialui" />
+</p>
+
+**Also familiar with:**
 
 `Ant Design` • `React Icons` • `Lucide Icons`
 
 ---
 
-### Design & Creative Tools
+## 🎨 Design & Creative Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 
-`Figma` • `Adobe Photoshop` • `Adobe Lightroom`  
-`UI Design` • `Responsive Design` • `Visual Design`
+`Adobe Lightroom` • `UI Design` • `Responsive Design`
 
 ---
 
-### Development Tools
+## 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm" />
 </p>
-
-`Git` • `GitHub` • `VS Code` • `Vite` • `npm`
 
 ---
 
-<!-- ======================= GITHUB ACTIVITY ======================= -->
-
-# GitHub Activity
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=sayem414hossain&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" 
-  height="180"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=sayem414hossain&show_icons=true&hide_border=true&rank_icon=github" height="180" />
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayem414hossain&layout=compact&hide_border=true&theme=tokyonight" 
-  height="180"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayem414hossain&layout=compact&hide_border=true" height="180" />
 
 </div>
 
@@ -116,59 +94,48 @@ I enjoy transforming ideas and designs into functional interfaces with clean cod
 
 <div align="center">
 
-<img 
-  src="https://streak-stats.demolab.com?user=sayem414hossain&theme=tokyonight&hide_border=true" 
-  width="70%"
-/>
+<img src="https://streak-stats.demolab.com?user=sayem414hossain&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- ======================= CONTRIBUTION GRAPH ======================= -->
-
-# Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sayem414hossain&theme=tokyo-night&hide_border=true&area=true" 
-  width="100%"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayem414hossain&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
-
-# Featured Projects
+# 🤝 Let's Connect
 
 <div align="center">
+
+I'm always interested in connecting with other developers, designers, and tech enthusiasts.
 
 <a href="https://github.com/sayem414hossain">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=sayem414hossain&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true"
-  />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-> Replace `YOUR_REPOSITORY_NAME` with one of your actual project repositories.
-
 ---
 
-<!-- ======================= CURRENTLY LEARNING ======================= -->
+<div align="center">
 
-# Currently Learning
+### 💙 Thanks for visiting my profile!
 
-```text
-React.js
-   ↓
-TypeScript
-   ↓
-Advanced JavaScript
-   ↓
-Modern Frontend Architecture
-   ↓
-Full-Stack Development
+⭐ Feel free to explore my repositories and projects.
+
+</div>
