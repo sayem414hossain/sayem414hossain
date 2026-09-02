@@ -19,11 +19,12 @@
 
 ## 🖼️ Banner
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=220&section=header&text=Sayem%20Hossain&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55" width="100%" />
+<p align="center">
+  <img src="./banner.png" alt="Sayem Hossain Banner" width="100%">
+</p>
 
-</div>
+
 
 ---
 
